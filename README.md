@@ -20,7 +20,8 @@ The case of this system is for **Capacity and Volume** of cargo and delivery pro
 - Copy and extract this folder to ``xampp/htdocs``
 - Create database with the name ``db_pengiriman`` in phpmyadmin
 - Import database file from ``/db/db_pengiriman.sql``
-- Run this system in a browser, then input login information from ``READMEEE!!.txt``
+- Run this system in a browser ``localhost/cargo-and-delivery-system-main``
+- Input login information from ``READMEEE!!.txt``
 
 # Screenshot
 - **Login**
