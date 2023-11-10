@@ -1,6 +1,6 @@
 # About System
-**Cargo and Delivery System (CodeIgniter) by mrezadit**
-The case of this system is for **Capacity and Volume** of cargo and delivery process, system focuses on package volume, cargo process, route point and delivery process
+**Cargo and Delivery System (CodeIgniter) by mrezadit**.
+The case of this system is for **Capacity and Volume** of cargo and delivery process, system focuses on package volume, cargo process, route point and delivery process.
 
 # Features
 - **Dashboard** - Summary of system progress & history
@@ -9,7 +9,7 @@ The case of this system is for **Capacity and Volume** of cargo and delivery pro
 - **Cargo** - Process load capacity by adding route points and package volume, including truck data and driver data
 - **Truck**- Set truck data, max capacity and max volume
 - **Driver** -   Add driver information
-- **Shipping** - Processing delivery from cargo data, and processing package delivery status by driver
+- **Shipping** - Process delivery of cargo data, and processing package delivery status by driver
 - **Report** - Delivery Reports of shipping status
 
 # Requirement
