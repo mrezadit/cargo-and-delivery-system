@@ -1,4 +1,4 @@
-# About System
+# About
 **Cargo and Delivery System (CodeIgniter) by mrezadit**. This is a website based system, the case of this system is for **Capacity and Volume** of cargo and delivery process, system focuses on package volume, cargo process, route point and delivery process.
 
 # Features
