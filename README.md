@@ -17,7 +17,7 @@
 
 # How to install
 - Copy and extract zip file to ``xampp/htdocs``
-- Open localhost/phpmyadmin in a browser
+- Open ``localhost/phpmyadmin`` in a browser
 - Create database with the name ``db_pengiriman``
 - Import database file from ``/db/db_pengiriman.sql``
 - Run this system in a browser ``localhost/cargo-and-delivery-system-main``
